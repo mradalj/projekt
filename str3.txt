@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1250">
+<meta http-equiv="refresh" content="60">  
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content=""> 
+<link rel="stylesheet" href="style.css">
+<title>Natjecanja</title>
+
+</head>
+<body>
+<nav>
+	<ul>    
+                <li><b><a href="index.html">Općenito</a>
+                </li><li><b><a class="active" href="str2.html">Šaranski ribolov</a></b>
+                </li><li><b><a href="str3.html">Natjecanja</a></b>
+                </li><li class="dropdown"><b><a class="dropbtn" href="#">Korisni linkovi</a></b>
+                <div class="dropdown-content"></b>
+                <a href="http://www.rak-rakitje.hr/site/">Rak Rakitje</a>
+                <a href="http://topfishing.hr/">Top Fishing </a>
+                <a href="http://www.pijanitvor.com/threads/boile-kucna-izrada.766/">Izrada boila</a>
+                <a href="http://www.cro-carp.com/forum/index.php?sid=c07ce37177fcdedbb4baf908a7168f8a">Forum za šaranaše</a>
+                <a href="https://www.eribica.com/vijesti-ribolov-svijet/saran-svjetski-rekord-2015/">Rekordi</a>
+                <a href="http://ribolovni-savez.hr/pravilnici-hsrs/">Pravilnici o natjecanjima</a>
+                <a href="http://www.korda.co.uk/">Korda</a>
+                </div></li>
+	</ul> </b>
+</nav>
+<div class="container">
+
+
+
+
+<img src="img/naslovna3.jpg" style="width:100%; height:200px;">
+<main>
+<section class="article" style="width:85%; height:100%; float:none; margin:60px auto;">
+<header>
+<h1>Hrvatska šaranska liga
+
+<h1>
+</header>
+
+<article>
+
+ Je natjecanje koje se sastoji od 4 kola koja se love se po cjeloj Hrvatskoj te se skupljaju bodovi nakog svakog kola.</br>
+Prva tri tima koja skupe najvise bodova plasiraju se na svijetsko prvenstvo koje se odrzava svake godine na drugom mjestu,prosle godine se održalo u Španjolskoj gdje je Hrvatska zauzela 2.mjesto.</br>
+Hrvatska je općenito u zadnjih par godina među top državama i imamo jako dobre i iskusne ribiče.</br>
+<img src="img/hsls.jpg"style="width:350pX; height:350px;">
+<img src="img/hslprvaci.jpg"style="width:350pX; height:350px;">
+<img src="img/tribalj.jpg"style="width:500pX; height:350px;">
+</article>
+<header>
+<h1>Standardna šaranska natjecanja<h1>
+</header>
+<article>
+Su natjecanja gdje se plaća kotizacija (upad u natjecanje) od nekoliko 100€ pa do nekoliko 1000€ po timu koja čine tri natjecanjeta te u glavni fond nagrada ulazi 70% od ukupnog fonda novca. </br>
+<img src="img/cernos.jpg"style="width:500pX; height:350px;">
+<img src="img/nagrade.jpg"style="width:350pX; height:350px;">
+
+
+
+
+
+</article>
+</section>
+</main>
+<footer>
+<section class="foot">
+<p style="font-size:150%;"><b>&copy</b></p>
+<br>
+<p></p>
+<p>E-mail:marin-radalj@hotmail.com<br> </p>
+</section>
+<section class="foot">
+<p style="font-size:150%;"><b>Pratite me!</b></p>
+<a href="http://www.youtube.com">
+<img src="img/youtube.png">
+</a>
+<a href="http://www.facebook.com">
+<img src="img/facebook.png">
+</a>
+</section>
+</footer>
+</div>
+</body>
+</html>

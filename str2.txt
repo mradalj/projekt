@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1250">
+<meta http-equiv="refresh" content="60">  
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content=""> 
+<link rel="stylesheet" href="style.css">
+<title>Šaranski ribolov</title>
+
+</head>
+<body>
+
+<nav>
+	<ul>    
+                <li><b><a href="index.html">Općenito</a>
+                </li><li><b><a href="str2.html">Šaranski ribolov</a></b>
+                </li><li><b><a class="active" href="str3.html">Natjecanja</a></b>
+                </li><li class="dropdown"><b><a class="dropbtn" href="#">Korisni linkovi</a></b>
+                <div class="dropdown-content"></b>
+                <a href="http://www.rak-rakitje.hr/site/">Rak Rakitje</a>
+                <a href="http://topfishing.hr/">Top Fishing </a>
+                <a href="http://www.pijanitvor.com/threads/boile-kucna-izrada.766/">Izrada boila</a>
+                <a href="http://www.cro-carp.com/forum/index.php?sid=c07ce37177fcdedbb4baf908a7168f8a">Forum za šaranaše</a>
+                <a href="https://www.eribica.com/vijesti-ribolov-svijet/saran-svjetski-rekord-2015/">Rekordi</a>
+                <a href="http://ribolovni-savez.hr/pravilnici-hsrs/">Pravilnici o natjecanjima</a>
+                <a href="http://www.korda.co.uk/">Korda</a>
+                </div></li>
+	</ul> </b>
+</nav>
+<div class="container">
+
+
+
+
+<img src="img/naslovna2.jpg" style="width:100%; height:200px;">
+
+<main>
+<section class="article" style="width:75%; height:100%; float:none; margin:60px auto;">
+<header>
+<h1>Moderni šaranski ribolov</h1>
+</header>
+
+<article>
+Moderni šaranski ribolov tj. njegovu definiciju teško je pojasniti. Nije to ni Pitagorin poučak, ni Zakon relativnosti, pa da postoji točna definicija. Pretpostavljam da svatko od nas ima svoj pogled i tumačenje modernog šaranskog ribolova, no potrudit ću se skupiti sva ta razmišljanja i ponašanja i stvoriti čim bolju sliku o modernom šaranskom ribolovu.
+
+Vratimo se malo natrag kroz povijest i konstatirajmo da su moderni šaranski ribolov "izmislili" englezi.</br> Glavna karakteristika modernog šaranskog ribolova je mamac na "dlaki", bilo da je to boila, kukuruz ili nešto treće.</br>
+Druga najvažnija karakteristika modernog šaranskog ribolova je puštanje ulovljene ribe natrag u njezino stanište (eng. "Catch&Release" ili hrv. "Ulovi i pusti").</br> Recimo da je ta karakteristika i dan danas kamen spoticanja i pomutnji u ribolovu općenito, jer teško je nekoga tko je cijeli život lovio ribu natjerati tj. nagovoriti da danas tu ribu vrati natrag u vodu.</br>
+No pomaka ima i to velikih, jer da nema nebi bilo ni ovog portala i foruma.</br>
+Znači osim mamca na dlaci i puštanja ribe, po mogućnosti neozljeđene, natrag u vodu, moderni šaranski ribolov čini još mnogo sitnica koje zaokružene čine definiciju takvog ribolova.</br>
+To su prije svega briga o ulovljenoj ribi, edukacija samog sebe i ostalih ribiča o modernom šaranskom ribolovu i njegovim prednostima, ekološka svijest i druge.</br>
+Sa strane pribora i opreme pak, moderni šaranski ribolov karakteriziraju mnoge specifičnosti, a to su prije svega šaranski štapovi i role, držači štapova (rod podovi), mehanički i elektronski signalizatori ugriza i još hrpa specifičnih stvari koje koriste šaranaši.</br>
+
+U globala za svaki taj kamenčić koji čini mozaik pod nazivom "Moderni šaranski ribolov", moglo bi se jako puno pisati i pričati, ali kao što sam rekao na početku, svatko ima svoje viđenje takve vrste ribolova, a ja ću pokušati definirati osnove i ostaviti Vam ih na razmatranju i po potrebi nadopunjavanju Vašim viđenjem svega toga.</br>
+
+U današnje vrijeme kada je čovjek također postao mali kotačić u globalnom svijetu, u vremenima kada se nema vremena stajati, kada se mora raditi i raditi, kada vrijeme ide 5 puta brže nego prije 100 ili 200 godina, moderni šaranski ribolov je idealna zanimacija za punjenje ispražnjenih baterija "modernog" tj. čovjeka 21. stoljeća.</br>
+Znači osim što je moderni šaranski ribolov sportska borba i nadmudrivanje čovjeka i ribe, u ovom slučaju šarana, isti taj ribolov je i idealan ispušni ventil, sadržajan odmor od svakodnevnog života, idealna prilika da čovjek sa betona i asfalta ponovno osjeti čari prirode, da se druži sa svojim prijateljima, da putuje, ustvari jednostavno i jasno da uživa u svemu tome.</br>
+
+I evo na kraju neću previše nabrajati i kao što rekoh, nakon što pročitate ovo puštam Vam na volju da me kroz svoje razmišljanje o modernom šaranolovu nadopunite ili ispravite. </br>
+
+<img src="img/delkim.jpg"style="width:500pX; height:500px;">
+
+
+
+</article>
+</section>
+<section class="article" style="width:85%; height:100%; float:none; margin:60px auto;">
+<header>
+<h1>Oprema</h1>
+</header>
+<article>
+ Oprema u današnjih šaranolovaca se iz dana u dan modernizira tako da nema kraja da se može reć to je to.</br>Što se tiče kvalitete opreme sve ovisi o normalno o novcu tako ćete recimo za jedan štap i rolu moć uzeti već od 1000kuna dok se te cijene drastično kreću do čak 12000kn po komadu role i štapa.</br>Za normalan ribolov potrebno je takva 3 štapa i 3 role još uz njih dolaze dva SPOD štapa s kojima se hrani i mjeri i traži lokacija za lov(marker štap).</br>
+Uz to potrebno je imati dobar Rod Pod (stalak za štapove) kojem isto tako kvaliteta ovisi cijeni.</br>Na rod podu se nalaze signalizatori ugriza koji nam zvučno i svijetlosno signaliziraju griz ribe,oni bi normalno trebali biti vodootporni te izdržljivi zbog različitih vremenskih uvijeta kao što su kiša,snijeg...</br>
+Bez signalizatora se stvarno nebi moglo izdržati jer je nemoguće da se konstantno promatraju štapovi jer čovjek mora raditi i ostale životne aktivnosti dok je na ribolovu.</br>Naravno ako želite ostati loviti po nekoliko dana za to će vam trebat šator koji mora biti kvalitetnog materijala da ne kondenzira iznutra te da se možete sakriti u njemu od nepovoljnih uvijeta.</br>
+U šatoru se nalazi krevet sa vrećom za spavanje i sva rezervna oprema koja vam je potrebna.</br>Nakon zadovoljavanja čovjekovih potreba dolaze na red ribe koje također u sportskom ribolovu moraju biti čuvane.</br>Nakon što dovučemo pred obalu ribu koju smo upecali potreban nam je podmetač kojim ulovimo ribu i prenesemo je u takozvanu "kadicu" za ribe koja je napravljena da bi se riba ne ozljeđena vratila natrag u jezero bez toga se na većinu voda nemože niti loviti.</br>
+U opremi se nalazi jos jako puno sitnica od udica,najlona,špagi,gumica...</br>
+</br>
+<img src="img/magnesium.jpg"style="width:350pX; height:350px;">
+<img src="img/nash.jpg"style="width:350pX; height:350px;">
+<img src="img/sitnice.gif"style="width:350pX; height:350px;">
+<img src="img/basia.jpg"style="width:350pX; height:350px;">
+
+
+
+
+
+</article>
+</section>
+</main>
+<footer>
+<section class="foot">
+<p style="font-size:150%;"><b>&copy</b></p>
+<br>
+<p></p>
+<p>E-mail:marin-radalj@hotmail.com<br> </p>
+</section>
+<section class="foot">
+<p style="font-size:150%;"><b>Pratite me!</b></p>
+
+<a href="http://www.youtube.com">
+<img src="img/youtube.png">
+</a>
+<a href="http://www.facebook.com">
+<img src="img/facebook.png">
+</a>
+</section>
+</footer>
+</div>
+</body>
+</html>

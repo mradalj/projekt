@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1250">
+<meta http-equiv="refresh" content="60">  
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content=""> 
+<link rel="stylesheet" href="style.css">
+<title>Općenito</title>
+
+</head>
+<body>
+
+
+<nav>
+	<ul>    
+
+                <li><b><a class="active" href="index.html">Općenito</a>
+                </li><li><b><a href="str2.html">Šaranski ribolov</a></b>
+                </li><li><b><a href="str3.html">Natjecanja</a></b>
+                </li><li class="dropdown"><b><a class="dropbtn" href="#">Korisni linkovi</a></b>
+                <div class="dropdown-content"></b>
+                <a href="http://www.rak-rakitje.hr/site/">Rak Rakitje</a>
+                <a href="http://topfishing.hr/">Top Fishing </a>
+                <a href="http://www.pijanitvor.com/threads/boile-kucna-izrada.766/">Izrada boila</a>
+                <a href="http://www.cro-carp.com/forum/index.php?sid=c07ce37177fcdedbb4baf908a7168f8a">Forum za šaranaše</a>
+                <a href="https://www.eribica.com/vijesti-ribolov-svijet/saran-svjetski-rekord-2015/">Rekordi</a>
+                <a href="http://ribolovni-savez.hr/pravilnici-hsrs/">Pravilnici o natjecanjima</a>
+                <a href="http://www.korda.co.uk/">Korda</a>
+                
+                </div></li>
+	</ul> </b>
+</nav>
+<div class="container">
+<img src="img/naslovna1.jpg" style="width:100%; height:200px;">
+
+<body style="backgorund-image:url(img/pozadina1.jpg)";>
+
+<main>
+
+<section class="article">
+<header>
+<h1>Ribolov</h1>
+<body style="backgorund-image:url(img/pozadina1.jpg)";>
+
+</header>
+<article>
+ Ribolov je aktivnost lova riba. 
+Riječ ribolov se također koristi i za lov na drugih životinja koje žive u vodi kao što su razne školjke, rakovi, lignje, sipe, hobotnice...</br>
+ Ribolov je stara i široko rasprostranjena aktivnost sa raznim tehnikama i tradicijama, ali i primjenom modernih tehnoloških pomagala.</br>
+ Razlikujemo sportski i komercijalni ribolov te slatkovodni i morski.</br>
+<img src="img/gama.jpg"style="width:400pX; height:400px;">
+</article>
+
+</section>
+<section class="article">
+<header>
+<h1>Športski ribolov</h1>
+</header>
+<article>
+Športski ribolov se često povezuje sa izrazima rekreacijski ribolov ili ribolov iz zabave gdje je smisao u traženju i hvatanju ribe pomoću pribora za športski ribolov, a ne radi jela ili prodaje ribe. 
+U športkom ribolovu se ulovljena riba pušta ili se može ponijeti dopušteni broj riba. 
+Riba koja se ponese iz ribolova mora biti određenih osobina npr. duljne, težine, mora pripadati vrsti na koju je ribolov dozvoljen i zadovoljavati sve druge kriterije propisane zakonom o športskom ribolovu zemlje, često i županije ili općine , odnosno ribolovne udruge koja gospodari vodama na kojim lovimo.
+
+
+
+
+
+
+
+
+</article>
+</section>
+
+
+</main>
+<footer>
+
+
+<section class="foot">
+<p style="font-size:150%;"><b>&copy</b></p>
+<br>
+<p></p>
+<p>E-mail:marin-radalj@hotmail.com<br> </p>
+</section>
+<section class="foot">
+<p style="font-size:150%;"><b>Pratite me!</b></p>
+<a href="http://www.youtube.com">
+<img src="img/youtube.png">
+</a>
+<a href="http://www.facebook.com">
+<img src="img/facebook.png">
+</a>
+</section>
+</footer>
+</div>
+</body>
+</html>
